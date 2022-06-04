@@ -1,0 +1,63 @@
+.contact_details{
+    border: 2px solid blue;
+    background-color: rgb(16, 16, 68);
+    background-image: linear-gradient(rgb(16, 16, 68), black);
+    height: 500px;
+    width: auto;
+    text-align: center;
+    color: white;
+    background-image: url();
+    margin: 30px;
+    box-shadow: 9px 6px 15px rgb(1, 1, 44);
+    border-radius: 15px;
+}
+h2{
+    font-size: 55px;
+    letter-spacing: 15px;
+    text-shadow: 5px 5px 5px skyblue;
+}
+body{
+    background-image: linear-gradient(to right, #101011, rgb(172, 171, 171));
+}
+.back a{
+    text-decoration: none;
+    background-color: rgb(9, 9, 51);
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+
+.back a:hover{
+    color: rgb(9, 9, 51);
+    background-color: white;
+}
+.education_data{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+.next a{
+    text-decoration: none;
+    background-color: rgb(9, 9, 51);
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+.next a:hover{
+    color: rgb(9, 9, 51);
+    background-color: white;
+}
+#social_media_links{
+    position: fixed;
+    top: 200px;
+    left: -30px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    height: 60px;
+}

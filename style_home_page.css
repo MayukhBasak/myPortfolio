@@ -1,0 +1,70 @@
+body{
+    background-image: linear-gradient(to right, #101011, rgb(172, 171, 171));
+}
+.headline{
+    border: 2px solid blue;
+    background-color: rgb(16, 16, 68);
+    background-image: linear-gradient(rgb(16, 16, 68), black);
+    height: 300px;
+    width: auto;
+    text-align: center;
+    color: white;
+    background-image: url();
+    margin: 30px;
+    box-shadow: 9px 6px 15px rgb(1, 1, 44);
+    border-radius: 15px;
+ 
+
+}
+.menu{
+    border: 2px solid rgb(1, 1, 44);
+    height: 30px;
+    border-radius: 10px;
+
+}
+.menu a{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(16, 16, 68), black);
+    padding: 5px;
+    padding-top: 2px;
+    margin: 6px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 50px;
+    
+}
+#social_media_links{
+    position: fixed;
+    top: 200px;
+    left: -30px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    height: 60px;
+}
+.welcome_text{
+    font-size: 30px;
+    text-align: center;
+}
+.next a{
+    text-decoration: none;
+    background-color: rgb(9, 9, 51);
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+.next a:hover{
+    color: rgb(9, 9, 51);
+    background-color: white;
+}
+.contact_details{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
